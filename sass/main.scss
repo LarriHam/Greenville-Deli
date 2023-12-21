@@ -1,0 +1,34 @@
+$danger: #495E63;
+$light: #F6F6F6;
+$success: #ffffff;
+$primary: #E39161;
+$secondary: #60BA62;
+$info: #4A4A4A;
+
+
+$card-border-color: #ffffff;
+$border-radius: 0.6rem;
+$btn-border-width: 5px;
+$btn-font-family: 'Alumni Sans';
+$btn-font-size: 1.5rem;
+$link-color: black;
+$link-decoration: none; 
+
+
+body {
+    font-family: 'Alumni Sans', 'Montserrat', sans-serif; 
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'Alumni Sans';
+}
+
+p {
+    font-family: 'Montserrat';
+}
+
+.body-colour {
+    background-color: #ffffff;
+}
+
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
